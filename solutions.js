@@ -11,6 +11,8 @@
  * This file is for defining the following functions. See README.md for more detail.
  */
 
+// Stuff  and things.
+
 
 //TODO: Define a function named isOdd that takes in any input and returns true if the input is an odd number, return false for any other situation. You do not need to consider floating-point and decimal numbers.
 
